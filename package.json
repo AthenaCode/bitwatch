@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
+    "coinbase": "^2.0.6",
+    "cryptocompare": "^0.2.0",
     "material-ui": "^0.19.4",
     "react": "^16.1.1",
     "react-bootstrap": "^0.31.5",
